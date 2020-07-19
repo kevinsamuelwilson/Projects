@@ -3,7 +3,7 @@
 #### May 2020 - NYU Center for Data Science
 #### Key learnings: machine translation, NLP, computer vision, Python code optimization
 
-[project report](Flickr30k_Report.pdf)
+[paper](Flickr30k_Report.pdf)
 
 We developed an image captioning model based on the widely-used Flickr30k dataset to explore and analyze methods for optimizing Python code.
 
