@@ -1,0 +1,27 @@
+ 	alpha 	activation 	solver 	learning_rate_init 	LRAP score
+0 	1.000000e-07 	logistic 	lbfgs 	0.0001 	0.388539
+1 	1.000000e-07 	logistic 	lbfgs 	0.0010 	0.388837
+2 	1.000000e-07 	logistic 	lbfgs 	0.0100 	0.384564
+3 	1.000000e-07 	logistic 	sgd 	0.0001 	0.071043
+4 	1.000000e-07 	logistic 	sgd 	0.0010 	0.191409
+5 	1.000000e-07 	logistic 	sgd 	0.0100 	0.429566
+6 	1.000000e-07 	logistic 	adam 	0.0001 	0.256408
+7 	1.000000e-07 	logistic 	adam 	0.0010 	0.511895
+8 	1.000000e-07 	logistic 	adam 	0.0100 	0.404816
+9 	1.000000e-05 	logistic 	lbfgs 	0.0001 	0.387626
+10 	1.000000e-05 	logistic 	lbfgs 	0.0010 	0.385407
+11 	1.000000e-05 	logistic 	lbfgs 	0.0100 	0.387560
+12 	1.000000e-05 	logistic 	sgd 	0.0001 	0.070975
+13 	1.000000e-05 	logistic 	sgd 	0.0010 	0.190660
+14 	1.000000e-05 	logistic 	sgd 	0.0100 	0.431127
+15 	1.000000e-05 	logistic 	adam 	0.0001 	0.256613
+16 	1.000000e-05 	logistic 	adam 	0.0010 	0.512833
+17 	1.000000e-05 	logistic 	adam 	0.0100 	0.406926
+18 	1.000000e-03 	logistic 	lbfgs 	0.0001 	0.389461
+19 	1.000000e-03 	logistic 	lbfgs 	0.0010 	0.386028
+20 	1.000000e-03 	logistic 	adam 	0.0010 	0.512389
+21 	1.000000e-03 	logistic 	adam 	0.0100 	0.349323
+22 	1.000000e-02 	logistic 	adam 	0.0010 	0.514220
+23 	1.000000e-02 	logistic 	adam 	0.0100 	0.462161
+24 	1.000000e-01 	logistic 	adam 	0.0010 	0.499702
+25 	1.000000e-01 	logistic 	adam 	0.0100 	0.486970
