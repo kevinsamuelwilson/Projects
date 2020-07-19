@@ -1,0 +1,61 @@
+1% of data
+Rank 100:
+	Lam 1.0:
+	RMSE: 1.227273, precision at 500: 0.001457, MAP 0.000342, ndcg at 500 0.001865
+	Lam 0.5:
+	RMSE: 0.851650, precision at 500: 0.001982, MAP 0.000469, ndcg at 500 0.002500
+	Lam 0.1:
+	RMSE: 0.466535, precision at 500: 0.043520, MAP 0.017947, ndcg at 500 0.055519
+Rank 50:
+	Lam 1.0:
+	RMSE: 1.227340, precision at 500: 0.001430, MAP 0.000314, ndcg at 500 0.001765
+	Lam 0.5:0.
+	RMSE: 0.851631, precision at 500: 0.001946, MAP 0.000447, ndcg at 500 0.002445
+	Lam 0.1:
+	RMSE: 0.471428, precision at 500: 0.044344, MAP 0.017324, ndcg at 500 0.056035
+
+10% of data:
+Rank 25:
+	Lam 0.01
+	RMSE: 0.510964, precision at 500: 0.004214, MAP 0.001837, ndcg at 500 0.005335
+	Lam 0.05
+	RMSE: 0.537001, precision at 500: 0.007438, MAP 0.001816, ndcg at 500 0.009366
+	Lam 0.1
+	RMSE: 0.616482, precision at 500: 0.006150, MAP 0.001174, ndcg at 500 0.007871
+
+Rank 50:
+	Lam 0.01
+	RMSE: 0.423332, precision at 500: 0.010282, MAP 0.004172, ndcg at 500 0.012833
+	Lam 0.05
+	RMSE: 0.480016, precision at 500: 0.016774, MAP 0.004119, ndcg at 500 0.021682
+	Lam 0.1
+	RMSE: 0.598991, precision at 500: 0.009668, MAP 0.002066, ndcg at 500 0.012460
+	
+Rank 75: 
+	Lam 0.01
+	RMSE: 0.369227, precision at 500: 0.017538, MAP 0.007593, ndcg at 500 0.022189
+	Lam 0.05
+	RMSE: 0.453154, precision at 500: 0.022274, MAP 0.005880, ndcg at 500 0.029502
+	Lam 0.03
+	RMSE: 0.393554, precision at 500: 0.021474, MAP 0.006254, ndcg at 500 0.027990
+	Lam 0.1
+	RMSE: 0.592621, precision at 500: 0.010839, MAP 0.002384, ndcg at 500 0.014097
+
+Rank 100:
+	Lam 0.001
+	RMSE: 0.438339, precision at 500: 0.015084, MAP 0.008848, ndcg at 500 0.020256
+	Lam 0.005
+	RMSE: 0.356027, precision at 500: 0.022082, MAP 0.011143, ndcg at 500 0.028844
+	Lam 0.008
+	RMSE: 0.340187, precision at 500: 0.023242, MAP 0.011084, ndcg at 500 0.030174
+	Lam 0.01
+	RMSE: 0.334788, precision at 500: 0.023448, MAP 0.010601, ndcg at 500 0.030440
+	Lam 0.03
+	RMSE: 0.366703, precision at 500: 0.023919, MAP 0.007424, ndcg at 500 0.031796
+	Lam 0.05
+	RMSE: 0.437030, precision at 500: 0.024204, MAP 0.006658, ndcg at 500 0.032332
+
+
+TEST: 
+RANK 100, Lam 0.005
+RMSE: 0.299402, precision at 500: 0.021250, MAP 0.011132, ndcg at 500 0.028058
