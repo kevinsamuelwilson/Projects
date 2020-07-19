@@ -1,1 +1,1 @@
-# Portfolio of Recent and Current Data Science Projects
+# Data Science project portfolio
