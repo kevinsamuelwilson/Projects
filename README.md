@@ -1,12 +1,8 @@
 # Data Science Project Portfolio
 
-**Book Recommender System** - [project report](Book_Recommender_System/Goodreads_Report.pdf)
+**Book Recommender System** ([project report](Book_Recommender_System/Goodreads_Report.pdf)) - Developed competency for big data management and analysis using Hadoop and PySpark by building a book recommendation system using data obtained from the book review website Goodreads in 2017. The dataset included approximately 223 million individual book ratings, across 2.4 million unique books and 876,000 unique users. Used alternating least squares (ALS) model in Spark to learn latent factor representations of users and books and t-SNE to visualize how the items are distributed in the learned space.
 
-Developed competency for big data management and analysis using Hadoop and PySpark by building a book recommendation system using data obtained from the book review website Goodreads in 2017. The dataset included approximately 223 million individual book ratings, across 2.4 million unique books and 876,000 unique users. Used alternating least squares (ALS) model in Spark to learn latent factor representations of users and books and t-SNE to visualize how the items are distributed in the learned space.
-
-**Extreme Multilabel Classification** - [project report](Extreme_Multilabel_Classification/Extreme_Multilabel_Classification_Report.pdf)
-
-Demonstrated competencies in exploratory data analysis, model selection, hyperparameter tuning, and evaluation by way of an extreme multilabel classification setting. Models evaluated included multi-layer perceptron, ML-KNN, radius neighbors, FastXML, and CraftML (an algorithm specifically designed for extreme classification problems that reduces the dimensionality of the feature and label spaces using a series of random projections).
+**Extreme Multilabel Classification** - [project report](Extreme_Multilabel_Classification/Extreme_Multilabel_Classification_Report.pdf) Demonstrated competencies in exploratory data analysis, model selection, hyperparameter tuning, and evaluation by way of an extreme multilabel classification setting. Models evaluated included multi-layer perceptron, ML-KNN, radius neighbors, FastXML, and CraftML (an algorithm specifically designed for extreme classification problems that reduces the dimensionality of the feature and label spaces using a series of random projections).
 
 **Image Captioning Generator** - [project report](Image_Captioning_Generator/Flickr30k_Report.pdf)
 
