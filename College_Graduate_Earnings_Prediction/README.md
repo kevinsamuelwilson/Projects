@@ -1,4 +1,4 @@
-# University Report Card: Predicting Student Earnings by University
+# College Report Card: Predicting Student Earnings by University
 
 #### December 2019 - NYU Center for Data Science
 #### Key learnings: exploratory data analysis, machine learning, regression, random forest, gradient boosting
