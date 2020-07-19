@@ -1,0 +1,26 @@
+Timer unit: 1e-06 s
+
+Total time: 1.30777 s
+
+Function: beam_sample at line 200
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+   200                                               def beam_sample(self, features, targets=None, imgs=None, beam_size=3, max_seq_length=20, return_attention = False):
+   
+   *** REMOVING IRRELEVANT CODE ***
+   201                                                   """Beam Search"""
+   236
+   237       232        768.0      3.3      0.1                      for k in range(beam_size):
+   238      2958       6736.0      2.3      0.5                          for j in range(batch_size):
+   239      5568      12557.0      2.3      1.0                              next_candidates[j].append(
+   240      5568      33011.0      5.9      2.5                                  (beam.scores[j].item() + topv[j][k].item(),
+   241      2784      18173.0      6.5      1.4                                   topi[j][k].item(),
+   242      2784      20555.0      7.4      1.6                                   beam.seq[j] + [str(topi[j][k].item())])
+   243                                                                       )
+   244                                           
+   245                                                               
+   246      2784       6841.0      2.5      0.5                              if len(next_candidates[j]) > beam_size: 
+   247      1824       5831.0      3.2      0.4                                  next_candidates[j].remove(min(next_candidates[j])) # only the top `beam_size` candidates are needed
+   
+   ** REMOVING IRRELEVANT CODE **
