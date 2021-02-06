@@ -1,4 +1,4 @@
-# Freight Train ETA Prediction for Rumo S.A.
+# Freight Train ETA Prediction for Large Railway Operator
 # NYU Data Science Capstone Project
 
 #### December 2020 - NYU Center for Data Science
